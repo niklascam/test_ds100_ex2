@@ -68,7 +68,7 @@ dependencies:
   - pure_eval=0.2.3=pyhd8ed1ab_0
   - pygments=2.18.0=pyhd8ed1ab_0
   - pyparsing=3.1.2=py312haa95532_0
-  - python=3.12.7=h14ffc60_0
+  - python=3.12
   - python-dateutil=2.9.0post0=py312haa95532_2
   - python-tzdata=2023.3=pyhd3eb1b0_0
   - pytz=2024.1=py312haa95532_0
